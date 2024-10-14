@@ -1,17 +1,18 @@
 Health Data Tracker
+
 A SwiftUI application that fetches and displays health data from Apple's HealthKit, including step counts and heart rates, with animated UI components.
 
 Features
-Fetch and display total step counts.
-Visualize heart rate data with a line chart.
-Animated updates for a smooth user experience.
-Loading indicators while fetching data.
-Requirements
-iOS 14.0 or later
-Xcode 12.0 or later
-HealthKit enabled on the device
-Setup
-Clone the Repository
+	Fetch and display total step counts.
+	Visualize heart rate data with a line chart.
+	Animated updates for a smooth user experience.
+	Loading indicators while fetching data.
+	Requirements
+	iOS 14.0 or later
+	Xcode 12.0 or later
+	HealthKit enabled on the device
+	Setup
+	Clone the Repository
 
 bash
 Copy code
